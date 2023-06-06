@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS tech_talks_db;
+DROP DATABASE IF EXISTS tech_talk_db;
 
-CREATE DATABASE tech_talks_db;
+CREATE DATABASE tech_talk_db;
